@@ -1,0 +1,2 @@
+name: Binyomin, price: 17, stock: 2name: Meir, price: 147, stock: 2name: Darling, price: 147, stock: 2
+name: Simpson, price: 23, stock: 2
